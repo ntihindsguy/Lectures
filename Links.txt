@@ -10,3 +10,5 @@ with Applications in R
 
 
 Link to download Anaconda: https://repo.anaconda.com/archive/Anaconda3-2018.12-Windows-x86_64.exe
+
+AI video link: https://www.youtube.com/watch?v=bmqd9nYH5Fw&ab_channel=BuzzFeedVideoBuzzFeedVideoVerified
